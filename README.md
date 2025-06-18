@@ -20,7 +20,7 @@ Watch a walkthrough of Emoona in action:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Flutter** – for mobile app development  
 - **Firebase** – for authentication and real-time database  
